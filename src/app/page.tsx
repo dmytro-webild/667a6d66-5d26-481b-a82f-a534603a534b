@@ -72,7 +72,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       tag="About WebCraft"
       title="We Help Businesses Succeed Online"
-      description="At WebCraft Co, we believe every business deserves a professional, high-performing website. Luke Wilkins founded us to bridge the gap between quality design and affordability for small business owners."
+      description="At WebCraft Co, we believe every business deserves a professional, high-performing website. Luke Wilkins created this business to bridge the gap between quality design and affordability for small business owners."
       subdescription="Our mission is simple: create personalized, clean, and innovative web solutions that drive real results for your unique goals."
       icon={Award}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=2"
