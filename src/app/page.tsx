@@ -59,7 +59,7 @@ export default function LandingPage() {
         {
           text: "Get Started Today",          href: "/contact"},
         {
-          text: "See Our Work",          href: "/services"},
+          text: "See Our Services",          href: "/services"},
       ]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=1"
       imageAlt="Modern agency workplace"
