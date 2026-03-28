@@ -61,7 +61,7 @@ export default function LandingPage() {
         {
           text: "See Our Work",          href: "/services"},
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=1"
       imageAlt="Modern agency workplace"
       mediaAnimation="slide-up"
     />
@@ -75,7 +75,7 @@ export default function LandingPage() {
       description="At WebCraft Co, we believe every business deserves a professional, high-performing website. Luke Wilkins founded us to bridge the gap between quality design and affordability for small business owners."
       subdescription="Our mission is simple: create personalized, clean, and innovative web solutions that drive real results for your unique goals."
       icon={Award}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=2"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -86,7 +86,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "1",          title: "Amazing Results",          quote: "WebCraft transformed my small business reach in just a month.",          name: "Sarah Johnson",          role: "CEO, Cafe Daily",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png"},
+          id: "1",          title: "Amazing Results",          quote: "WebCraft transformed my small business reach in just a month.",          name: "Sarah Johnson",          role: "CEO, Cafe Daily",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1"},
         {
           id: "2",          title: "Truly Professional",          quote: "Luke made the process so easy. A joy to work with.",          name: "Michael Chen",          role: "Founder, TechStart",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png"},
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
         {
           id: "4",          title: "Fast Deployment",          quote: "Got my site live in two weeks exactly as promised.",          name: "David Kim",          role: "Manager, City Mart",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-young-digital-service-prof-1774738302205-74d4c940.png"},
         {
-          id: "5",          title: "Exceeded Expectations",          quote: "The communication was excellent, and the final site is beautiful.",          name: "Marcus Thorne",          role: "Director, Creative Hub",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png"},
+          id: "5",          title: "Exceeded Expectations",          quote: "The communication was excellent, and the final site is beautiful.",          name: "Marcus Thorne",          role: "Director, Creative Hub",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=2"},
       ]}
       title="What Our Clients Say"
       description="Real feedback from our satisfied clients."
