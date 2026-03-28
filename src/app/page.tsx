@@ -132,7 +132,7 @@ export default function LandingPage() {
       title="Trusted by Growing Businesses"
       description="We are proud to have helped dozens of local brands establish their digital footprint."
       names={[
-        "Cafe Daily",        "TechStart",        "Boutique Co",        "City Mart",        "Creative Hub"]}
+        "Cafe Daily",        "",        "Boutique Co",        "City Mart",        "Creative Hub"]}
     />
   </div>
 
