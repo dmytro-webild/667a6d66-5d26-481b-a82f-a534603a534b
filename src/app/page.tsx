@@ -78,7 +78,7 @@ export default function LandingPage() {
           href: "/services",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=1"
       imageAlt="Modern agency workplace"
       mediaAnimation="slide-up"
     />
@@ -92,7 +92,7 @@ export default function LandingPage() {
       description="At WebCraft Co, we believe every business deserves a professional, high-performing website. Luke Wilkins founded us to bridge the gap between quality design and affordability for small business owners."
       subdescription="Our mission is simple: create personalized, clean, and innovative web solutions that drive real results for your unique goals."
       icon={Award}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=2"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -108,7 +108,7 @@ export default function LandingPage() {
           quote: "WebCraft transformed my small business reach in just a month.",
           name: "Sarah Johnson",
           role: "CEO, Cafe Daily",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1",
         },
         {
           id: "2",
@@ -116,7 +116,7 @@ export default function LandingPage() {
           quote: "Luke made the process so easy. A joy to work with.",
           name: "Michael Chen",
           role: "Founder, TechStart",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png?_wi=1",
         },
         {
           id: "3",
@@ -140,7 +140,7 @@ export default function LandingPage() {
           quote: "The communication was excellent, and the final site is beautiful.",
           name: "Marcus Thorne",
           role: "Director, Creative Hub",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=2",
         },
       ]}
       title="What Our Clients Say"
