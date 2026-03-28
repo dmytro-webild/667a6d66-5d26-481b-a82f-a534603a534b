@@ -48,7 +48,7 @@ export default function LandingPage() {
       description="Custom-designed, affordable websites built for small businesses and startups. Professional design, rapid deployment, measurable results."
       kpis={[
         {
-          value: "100+",          label: "Projects Delivered"},
+          value: "Professional ",          label: "Projects Delivered"},
         {
           value: "95%",          label: "Client Retention"},
         {
