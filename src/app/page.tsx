@@ -130,7 +130,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       title="Trusted by Growing Businesses"
-      description="We are proud to have helped dozens of local brands establish their digital footprint."
+      description="We love to help our local brands establish their digital footprint."
       names={[
         "",        "",        "",        "",        ""]}
     />
