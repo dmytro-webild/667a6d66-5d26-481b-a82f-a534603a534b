@@ -50,7 +50,7 @@ export default function LandingPage() {
         {
           value: "Professional ",          label: "Projects Delivered"},
         {
-          value: "keep ",          label: "Client Retention"},
+          value: "keep ",          label: "+Client Retention"},
         {
           value: "Increase Clicks ",          label: "+Avg Traffic Growth"},
       ]}
