@@ -48,11 +48,11 @@ export default function LandingPage() {
       description="Custom-designed, affordable websites built for small businesses and startups. Professional design, rapid deployment, measurable results."
       kpis={[
         {
-          value: "Professional ",          label: "Projects Delivered"},
+          value: "Professional ",          label: "High quality "},
         {
-          value: "keep ",          label: "+Client Retention"},
+          value: "",          label: "+Client Retention"},
         {
-          value: "Increase Clicks ",          label: "+Avg Traffic Growth"},
+          value: "Increase Clients",          label: "+Avg Traffic Growth"},
       ]}
       enableKpiAnimation={true}
       buttons={[
