@@ -76,7 +76,7 @@ export default function LandingPage() {
           tag: "Insights",
           title: "Google Analytics Access",
           subtitle: "Measurable Results",
-          description: "Track your traffic effortlessly with our built-in analytics dashboards.",
+          description: "",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/dashboard-analytics-visual-with-charts-a-1774738302785-a4dc0312.png",
         },
       ]}
