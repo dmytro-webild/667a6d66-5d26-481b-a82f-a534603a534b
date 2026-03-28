@@ -52,7 +52,7 @@ export default function LandingPage() {
         {
           value: "keep ",          label: "Client Retention"},
         {
-          value: "2x",          label: "Avg Traffic Growth"},
+          value: "Increase Clicks ",          label: "+Avg Traffic Growth"},
       ]}
       enableKpiAnimation={true}
       buttons={[
