@@ -60,7 +60,7 @@ export default function LandingPage() {
         },
         {
           id: "f3",
-          title: "What the best way to get into contact with WebCraft.co?",
+          title: "What the best way to get into contact with WebCraft?",
           content: "We build modern, responsive, and SEO-optimized sites.",
         },
       ]}
