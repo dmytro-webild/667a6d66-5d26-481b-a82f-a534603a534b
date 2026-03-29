@@ -51,7 +51,7 @@ export default function LandingPage() {
         {
           id: "f1",
           title: "How much do you charge?",
-          content: "Our pricing is custom to fit your specific needs and budget. prices Vary from $500-$1000",
+          content: "Our pricing is custom to fit your specific needs and budget. prices Vary from $500-$800",
         },
         {
           id: "f2",
