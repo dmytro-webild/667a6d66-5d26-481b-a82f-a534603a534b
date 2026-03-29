@@ -46,7 +46,7 @@ export default function LandingPage() {
         {
           id: "f2",          title: "How fast is delivery?",          content: "3 business days "},
         {
-          id: "f3",          title: "What the best way to get into contact with WebCraft?",          content: "The fastest way is to call us at 706-816-2380 "},
+          id: "f3",          title: "What the best way to get into contact with WebCraft?",          content: "The fastest way is to call or text us at 706-816-2380 "},
       ]}
       ctaTitle="Let’s Build Your Website Today"
       ctaDescription="Get in touch with Luke Wilkins at WebCraft7.co@gmail.com. call or text 706-816-2380. We’re ready to grow your business."
