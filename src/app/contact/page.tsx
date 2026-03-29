@@ -5,7 +5,6 @@ import ReactLenis from "lenis/react";
 import ContactFaq from '@/components/sections/contact/ContactFaq';
 import FooterBaseCard from '@/components/sections/footer/FooterBaseCard';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
-import TeamCardSix from '@/components/sections/team/TeamCardSix';
 import { Mail } from "lucide-react";
 
 export default function LandingPage() {
@@ -27,17 +26,11 @@ export default function LandingPage() {
       <NavbarStyleApple
       navItems={[
         {
-          name: "Home",
-          id: "/",
-        },
+          name: "Home",          id: "/"},
         {
-          name: "Services",
-          id: "/services",
-        },
+          name: "Services",          id: "/services"},
         {
-          name: "Contact",
-          id: "/contact",
-        },
+          name: "Contact",          id: "/contact"},
       ]}
       brandName="WebCraft Co"
     />
@@ -49,47 +42,17 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "f1",
-          title: "How much do you charge?",
-          content: "Our pricing is custom to fit your specific needs and budget. prices Vary from $500-$800",
-        },
+          id: "f1",          title: "How much do you charge?",          content: "Our pricing is custom to fit your specific needs and budget. prices Vary from $500-$800"},
         {
-          id: "f2",
-          title: "How fast is delivery?",
-          content: "3 business days ",
-        },
+          id: "f2",          title: "How fast is delivery?",          content: "3 business days "},
         {
-          id: "f3",
-          title: "What the best way to get into contact with WebCraft?",
-          content: "The fastest way is to call us at 706-816-2380 ",
-        },
+          id: "f3",          title: "What the best way to get into contact with WebCraft?",          content: "The fastest way is to call us at 706-816-2380 "},
       ]}
       ctaTitle="Let’s Build Your Website Today"
       ctaDescription="Get in touch with Luke Wilkins at WebCraft7.co@gmail.com or call 706-816-2380. We’re ready to grow your business."
       ctaButton={{
-        text: "Contact Us",
-        href: "mailto:WebCraft7.co@gmail.com",
-      }}
+        text: "Contact Us",        href: "mailto:WebCraft7.co@gmail.com"}}
       ctaIcon={Mail}
-    />
-  </div>
-
-  <div id="team" data-section="team">
-      <TeamCardSix
-      animationType="slide-up"
-      textboxLayout="default"
-      gridVariant="uniform-all-items-equal"
-      useInvertedBackground={false}
-      title="Meet Your Designer"
-      description="Work directly with the founder to ensure your vision comes to life."
-      members={[
-        {
-          id: "m1",
-          name: "Luke Wilkins",
-          role: "Founder & Lead Designer",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png?_wi=2",
-        },
-      ]}
     />
   </div>
 
@@ -98,33 +61,21 @@ export default function LandingPage() {
       logoText="WebCraft Co"
       columns={[
         {
-          title: "Navigation",
-          items: [
+          title: "Navigation",          items: [
             {
-              label: "Home",
-              href: "/",
-            },
+              label: "Home",              href: "/"},
             {
-              label: "Services",
-              href: "/services",
-            },
+              label: "Services",              href: "/services"},
             {
-              label: "Contact",
-              href: "/contact",
-            },
+              label: "Contact",              href: "/contact"},
           ],
         },
         {
-          title: "Support",
-          items: [
+          title: "Support",          items: [
             {
-              label: "Email",
-              href: "mailto:WebCraft7.co@gmail.com",
-            },
+              label: "Email",              href: "mailto:WebCraft7.co@gmail.com"},
             {
-              label: "Call Us",
-              href: "tel:7068162380",
-            },
+              label: "Call Us",              href: "tel:7068162380"},
           ],
         },
       ]}
