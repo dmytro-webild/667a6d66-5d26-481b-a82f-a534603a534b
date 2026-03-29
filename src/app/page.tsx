@@ -96,7 +96,7 @@ export default function LandingPage() {
         {
           id: "5",          title: "Exceeded Expectations",          quote: "The communication was excellent, and the final site is beautiful.",          name: "Marcus Thorne",          role: "Director, Creative Hub",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=2"},
       ]}
-      title="What Our Clients Say"
+      title="Meet the Team "
       description="Real feedback from our satisfied clients."
     />
   </div>
