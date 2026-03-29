@@ -7,7 +7,7 @@ import HeroSplitKpi from '@/components/sections/hero/HeroSplitKpi';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import PricingCardOne from '@/components/sections/pricing/PricingCardOne';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
-import TestimonialCardTen from '@/components/sections/testimonial/TestimonialCardTen';
+import TeamCardFive from '@/components/sections/team/TeamCardFive';
 import { Award } from "lucide-react";
 
 export default function LandingPage() {
@@ -80,24 +80,17 @@ export default function LandingPage() {
   </div>
 
   <div id="testimonials" data-section="testimonials">
-      <TestimonialCardTen
+      <TeamCardFive
+      animationType="slide-up"
       textboxLayout="default"
       useInvertedBackground={true}
-      testimonials={[
+      title="Meet the Owner"
+      description="Work directly with our lead designer to ensure your vision is perfectly translated into a high-performing digital experience."
+      team={[
         {
-          id: "1",          title: "Professional Results",          quote: "WebCraft is truly committed to providing professional, clean, and personalized results that actually work.",          name: "",          role: "Owner- Luke Wilkins ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1"},
-        {
-          id: "2",          title: "Truly Professional",          quote: "Luke made the process so easy. A joy to work with.",          name: "Michael Chen",          role: "Founder, TechStart",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png"},
-        {
-          id: "3",          title: "Affordable Quality",          quote: "Finally, an agency that delivers high-end design without the massive price tag.",          name: "Emily Rodriguez",          role: "Owner, Boutique Co",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-successful-restaurant-owne-1774738302297-067c5c7c.png"},
-        {
-          id: "4",          title: "Fast Deployment",          quote: "Got my site live in two weeks exactly as promised.",          name: "David Kim",          role: "Manager, City Mart",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-young-digital-service-prof-1774738302205-74d4c940.png"},
-        {
-          id: "5",          title: "Exceeded Expectations",          quote: "The communication was excellent, and the final site is beautiful.",          name: "Marcus Thorne",          role: "Director, Creative Hub",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=2"},
+          id: "t1",          name: "Luke Wilkins",          role: "Founder & Lead Designer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1"
+        }
       ]}
-      title="Meet the Team "
-      description="my goal is satisfied clients."
-      quoteClassName="min-h-[100px] border-l-4 border-primary pl-4"
     />
   </div>
 
