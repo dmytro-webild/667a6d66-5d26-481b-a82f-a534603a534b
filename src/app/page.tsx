@@ -111,7 +111,7 @@ export default function LandingPage() {
       description="Choose the plan that fits your business stage."
       plans={[
         {
-          id: "p1",          badge: "Starter",          price: "$500-800",          subtitle: "Basic web presence",          features: [
+          id: "p1",          badge: "S",          price: "$500-800",          subtitle: "Basic web presence",          features: [
             "Compatabile with mobile devices ",            "Contact information",            "modern animated styled design "],
         },
       ]}
