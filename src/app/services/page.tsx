@@ -70,7 +70,7 @@ export default function ServicesPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={false}
             title="Proven Performance"
-            description="We don't just build sites, we build online attraction towards your business."
+            description="We don't just build sites, we build attraction towards your business."
             metrics={[
               {
                 id: "m1",                value: "Traffic",                title: "Increase traffic towards your business.",                description: "Built to increase traffic and visibility with mobile compatibility.",                icon: Circle
