@@ -108,7 +108,7 @@ export default function LandingPage() {
           title: " Visually appealing website.",
           items: [
             "landing cliental with modern visuals  ",
-            "UX flow",
+            "HTTPS secured website ",
           ],
         },
       ]}
