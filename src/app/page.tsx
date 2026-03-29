@@ -98,6 +98,7 @@ export default function LandingPage() {
       ]}
       title="Meet the Team "
       description="my goal is satisfied clients."
+      quoteClassName="min-h-[100px] border-l-4 border-primary pl-4"
     />
   </div>
 
