@@ -6,7 +6,6 @@ import FooterBaseCard from '@/components/sections/footer/FooterBaseCard';
 import HeroSplitKpi from '@/components/sections/hero/HeroSplitKpi';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import PricingCardOne from '@/components/sections/pricing/PricingCardOne';
-import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardTen from '@/components/sections/testimonial/TestimonialCardTen';
 import { Award } from "lucide-react";
@@ -115,17 +114,6 @@ export default function LandingPage() {
             "1-3 Page Structure",            "modern animated styled design ",            "Domain Setup",            "Mobile Responsive Design",            "Secure HTTPS Hosting"],
         },
       ]}
-    />
-  </div>
-
-  <div id="socialProof" data-section="socialProof">
-      <SocialProofOne
-      textboxLayout="default"
-      useInvertedBackground={false}
-      title="Trusted by Growing Businesses"
-      description="We love to help our local brands establish their digital footprint."
-      names={[
-        "",        "",        "",        "",        ""]}
     />
   </div>
 
