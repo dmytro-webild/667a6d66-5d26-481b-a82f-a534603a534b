@@ -52,7 +52,7 @@ export default function LandingPage() {
           tag: "Design",
           title: "Website Design",
           subtitle: "Unique Branding",
-          description: "Custom sites crafted to fit your brand identity.",
+          description: "Every website is uniquely designed to reflect your brand’s identity, values, and vision—creating a polished, high-end experience that builds trust and credibility.",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/graphic-illustration-of-web-design-proce-1774738303413-24d3332b.png",
         },
         {
