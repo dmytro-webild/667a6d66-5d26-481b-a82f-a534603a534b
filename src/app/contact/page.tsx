@@ -70,14 +70,6 @@ export default function LandingPage() {
               label: "Contact",              href: "/contact"},
           ],
         },
-        {
-          title: "Support",          items: [
-            {
-              label: "Email",              href: "mailto:WebCraft7.co@gmail.com"},
-            {
-              label: "Call Us",              href: "tel:7068162380"},
-          ],
-        },
       ]}
       copyrightText="© 2025 WebCraft Co | Design by Luke Wilkins"
     />
