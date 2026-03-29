@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
-import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline/NavbarLayoutFloatingInline';
+import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import { Mail } from "lucide-react";
 
 export default function ContactPage() {
