@@ -107,7 +107,7 @@ export default function LandingPage() {
       animationType="slide-up"
       textboxLayout="default"
       useInvertedBackground={false}
-      title="Simple, Transparent Pricing"
+      title="Modern Websites for lower cost"
       description="Choose the plan that fits your business stage."
       plans={[
         {
