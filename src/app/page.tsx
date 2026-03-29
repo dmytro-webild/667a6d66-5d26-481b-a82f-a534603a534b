@@ -114,14 +114,6 @@ export default function LandingPage() {
           id: "p1",          badge: "Starter",          price: "$500-800",          subtitle: "Basic web presence",          features: [
             "Compatabile with mobile devices ",            "Contact information",            "modern animated styled design "],
         },
-        {
-          id: "p2",          badge: "Growth",          price: "$999",          subtitle: "For growing businesses",          features: [
-            "Everything in Starter",            "Analytics dashboard",            "Social media integration"],
-        },
-        {
-          id: "p3",          badge: "Pro",          price: "$1499",          subtitle: "Full digital suite",          features: [
-            "Everything in Growth",            "Custom branding",            "Monthly maintenance"],
-        },
       ]}
     />
   </div>
