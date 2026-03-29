@@ -88,7 +88,7 @@ export default function LandingPage() {
       description="Work directly with our lead designer to ensure your vision is perfectly translated into a high-performing digital experience."
       team={[
         {
-          id: "t1",          name: "Luke Wilkins",          role: "Founder & Lead Designer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/uploaded-1774756702294-zjtskn4f.jpg"
+          id: "t1",          name: "Luke Wilkins",          role: "Owner & Lead Designer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/uploaded-1774756702294-zjtskn4f.jpg"
         }
       ]}
     />
