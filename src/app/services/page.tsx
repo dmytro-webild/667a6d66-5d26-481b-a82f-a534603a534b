@@ -99,7 +99,7 @@ export default function LandingPage() {
           title: "Increase traffic towards your business.",
           items: [
             "Built to increase traffic and visibility ",
-            "Mobile speed",
+            "Mobile compatabilty",
           ],
         },
         {
