@@ -105,7 +105,7 @@ export default function LandingPage() {
         {
           id: "m2",
           value: "Modern ",
-          title: "Ensure your business has a modern styled, visually appealing website.",
+          title: " Visually appealing website.",
           items: [
             "Landing page logic",
             "UX flow",
