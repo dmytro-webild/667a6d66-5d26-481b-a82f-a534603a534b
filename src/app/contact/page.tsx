@@ -39,6 +39,7 @@ export default function ContactPage() {
             title="Let’s Build Your Website Today"
             description="Get in touch with Luke Wilkins at WebCraft7.co@gmail.com. call or text 706-816-2380. We’re ready to grow your business."
             useInvertedBackground={false}
+            background={{ variant: "plain" }}
             mediaPosition="right"
             tagIcon={Mail}
           />
