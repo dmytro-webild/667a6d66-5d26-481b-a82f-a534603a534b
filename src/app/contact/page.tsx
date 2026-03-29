@@ -56,7 +56,7 @@ export default function LandingPage() {
         {
           id: "f2",
           title: "How fast is delivery?",
-          content: "We pride ourselves on rapid, high-quality deployment.",
+          content: "3 business days ",
         },
         {
           id: "f3",
