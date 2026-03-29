@@ -59,7 +59,7 @@ export default function LandingPage() {
           id: 2,
           tag: "Conversion",
           title: "Landing Pages",
-          subtitle: "High Conversion",
+          subtitle: "Increase Client Conversion",
           description: "Targeted pages that turn visitors into loyal customers.",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/landing-page-conceptual-art-showing-a-hi-1774738303023-45c1a9a5.png",
         },
