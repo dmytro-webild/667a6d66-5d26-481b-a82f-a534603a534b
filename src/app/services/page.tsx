@@ -91,12 +91,12 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       title="Proven Performance"
-      description="We don't just build sites, we build growth engines."
+      description="We don't just build sites, we build online attraction towards your business."
       metrics={[
         {
           id: "m1",
-          value: "Traffic increase ",
-          title: "Average Traffic Increase",
+          value: "Traffic ",
+          title: "Increase traffic towards your business.",
           items: [
             "SEO improvement",
             "Mobile speed",
@@ -104,8 +104,8 @@ export default function LandingPage() {
         },
         {
           id: "m2",
-          value: "3x",
-          title: "Conversion Rate Boost",
+          value: "Modern ",
+          title: "Ensure your business has a modern styled, visually appealing website.",
           items: [
             "Landing page logic",
             "UX flow",
