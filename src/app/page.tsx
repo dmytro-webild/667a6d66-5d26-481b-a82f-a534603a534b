@@ -112,7 +112,7 @@ export default function LandingPage() {
       plans={[
         {
           id: "p1",          badge: "Website ",          price: "$500-800",          subtitle: "Start your web presence",          features: [
-            "3-Page Structure",            "modern animated styled design ",            "Domain Setup",            "Mobile Responsive Design",            "Secure HTTPS Hosting"],
+            "1-3 Page Structure",            "modern animated styled design ",            "Domain Setup",            "Mobile Responsive Design",            "Secure HTTPS Hosting"],
         },
       ]}
     />
