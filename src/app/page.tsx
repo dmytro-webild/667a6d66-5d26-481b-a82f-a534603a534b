@@ -108,11 +108,11 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       title="Modern Websites for lower cost"
-      description="Choose the plan that fits your business stage."
+      description="Websites valued at $1500-."
       plans={[
         {
           id: "p1",          badge: "Website ",          price: "$500-800",          subtitle: "Start your web presence",          features: [
-            "Compatabile with mobile devices ",            "Contact information",            "modern animated styled design "],
+            "Compatabile with mobile devices ",            "Secure websites  ",            "modern animated styled design "],
         },
       ]}
     />
