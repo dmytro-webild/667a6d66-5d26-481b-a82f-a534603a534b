@@ -86,7 +86,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "1",          title: "Amazing Results",          quote: "WebCraft transformed my small business reach in just a month.",          name: "Sarah Johnson",          role: "CEO, Cafe Daily",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1"},
+          id: "1",          title: "Professional Results",          quote: "WebCraft transformed my small business reach in just a month.",          name: "Sarah Johnson",          role: "CEO, Cafe Daily",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=1"},
         {
           id: "2",          title: "Truly Professional",          quote: "Luke made the process so easy. A joy to work with.",          name: "Michael Chen",          role: "Founder, TechStart",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-creative-startup-founder-w-1774738303537-26d16cee.png"},
         {
@@ -97,7 +97,7 @@ export default function LandingPage() {
           id: "5",          title: "Exceeded Expectations",          quote: "The communication was excellent, and the final site is beautiful.",          name: "Marcus Thorne",          role: "Director, Creative Hub",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/portrait-of-a-confident-small-business-o-1774738303450-d0353268.png?_wi=2"},
       ]}
       title="Meet the Team "
-      description="Real feedback from our satisfied clients."
+      description="my goal is satisfied clients."
     />
   </div>
 
