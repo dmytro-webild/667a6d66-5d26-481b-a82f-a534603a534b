@@ -73,7 +73,7 @@ export default function LandingPage() {
         },
         {
           id: "m2",          value: "Modern ",          title: " Visually appealing website.",          items: [
-            "landing cliental with modern visuals  ",            "HTTPS secured website "],
+            "landing clientele with modern visuals  ",            "HTTPS secured website "],
         },
       ]}
     />
