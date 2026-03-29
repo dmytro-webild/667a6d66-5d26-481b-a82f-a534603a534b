@@ -7,6 +7,7 @@ import HeroSplitKpi from '@/components/sections/hero/HeroSplitKpi';
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import PricingCardOne from '@/components/sections/pricing/PricingCardOne';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
+import TeamCardFive from '@/components/sections/team/TeamCardFive';
 import { Award } from "lucide-react";
 
 export default function LandingPage() {
@@ -75,6 +76,21 @@ export default function LandingPage() {
       icon={Award}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/a-minimalist-high-end-web-design-agency--1774738302697-43614847.png?_wi=2"
       mediaAnimation="blur-reveal"
+    />
+  </div>
+
+  <div id="testimonials" data-section="testimonials">
+      <TeamCardFive
+      animationType="slide-up"
+      textboxLayout="default"
+      useInvertedBackground={true}
+      title="Meet the Owner"
+      description="Work directly with our lead designer to ensure your vision is perfectly translated into a high-performing digital experience."
+      team={[
+        {
+          id: "t1",          name: "Luke Wilkins",          role: "Owner & Lead Designer",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AQ4BQzowisLDTKS7JYoLl4Sxq7/uploaded-1774756702294-zjtskn4f.jpg"
+        }
+      ]}
     />
   </div>
 
