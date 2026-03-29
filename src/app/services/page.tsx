@@ -95,7 +95,7 @@ export default function LandingPage() {
       metrics={[
         {
           id: "m1",
-          value: "150%",
+          value: "Traffic increase ",
           title: "Average Traffic Increase",
           items: [
             "SEO improvement",
