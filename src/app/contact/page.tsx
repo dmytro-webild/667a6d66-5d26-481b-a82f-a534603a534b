@@ -61,7 +61,7 @@ export default function LandingPage() {
         {
           id: "f3",
           title: "What the best way to get into contact with WebCraft?",
-          content: "We build modern, responsive, and SEO-optimized sites.",
+          content: "The fastest way is to call us at 706-816-2380 ",
         },
       ]}
       ctaTitle="Let’s Build Your Website Today"
