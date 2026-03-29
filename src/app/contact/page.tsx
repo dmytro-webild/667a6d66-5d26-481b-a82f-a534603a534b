@@ -5,7 +5,6 @@ import ReactLenis from "lenis/react";
 import ContactSplitForm from '@/components/sections/contact/ContactSplitForm';
 import FooterLogoEmphasis from '@/components/sections/footer/FooterLogoEmphasis';
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
-import { Mail } from "lucide-react";
 
 export default function ContactPage() {
   return (
@@ -29,6 +28,7 @@ export default function ContactPage() {
                 { name: "Contact", id: "/contact" },
             ]}
             brandName="WebCraft Co"
+            button={{ text: "Contact Us", href: "/contact" }}
             />
         </div>
 
