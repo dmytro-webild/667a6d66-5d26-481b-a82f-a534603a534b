@@ -2,12 +2,12 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
-import ContactCenter from '@/components/sections/contact/ContactCenter';
+import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
-import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
+import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import { Mail } from "lucide-react";
 
-export default function LandingPage() {
+export default function ContactPage() {
   return (
     <ThemeProvider
         defaultButtonVariant="hover-bubble"
@@ -23,23 +23,26 @@ export default function LandingPage() {
     >
       <ReactLenis root>
         <div id="nav" data-section="nav">
-          <NavbarStyleCentered
+          <NavbarLayoutFloatingInline
             navItems={[
               { name: "Home", id: "/" },
               { name: "Services", id: "/services" },
               { name: "Contact", id: "/contact" },
             ]}
             brandName="WebCraft Co"
+            button={{ text: "Get Started", href: "/contact" }}
           />
         </div>
 
-        <div id="contact-section" data-section="contact-section">
-          <ContactCenter
+        <div id="contact" data-section="contact">
+          <ContactSplit
             tag="Contact Us"
             title="Let’s Build Your Website Today"
             description="Get in touch with Luke Wilkins at WebCraft7.co@gmail.com. call or text 706-816-2380. We’re ready to grow your business."
-            background={{ variant: "plain" }}
             useInvertedBackground={false}
+            background={{ variant: "plain" }}
+            mediaPosition="right"
+            tagIcon={Mail}
           />
         </div>
 
