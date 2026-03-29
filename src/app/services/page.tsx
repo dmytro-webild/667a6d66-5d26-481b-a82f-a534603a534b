@@ -107,7 +107,7 @@ export default function LandingPage() {
           value: "Modern ",
           title: " Visually appealing website.",
           items: [
-            "Landing page logic",
+            "landing cliental with modern visuals  ",
             "UX flow",
           ],
         },
