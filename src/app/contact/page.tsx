@@ -30,6 +30,7 @@ export default function ContactPage() {
               { name: "Contact", id: "/contact" },
             ]}
             brandName="WebCraft Co"
+            button={{ text: "Get Started", href: "/contact" }}
           />
         </div>
 
